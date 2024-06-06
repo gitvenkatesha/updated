@@ -1,9 +1,0 @@
-#!/bin/bash
-
-
-if [[ $1 == $2 ]]; then
-   echo "$1 is equal to the $1 "
-fi
-
-
-not bad  i knoe how to upload and download file inthe git 
